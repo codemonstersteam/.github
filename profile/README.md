@@ -5,12 +5,9 @@ It is an organization of a full stack enthusiasts
 Software Craftsmanship and Writing Right Software
 
 
-
-- 🔭 I’m currently working on fluent functional extension for projects implemented in kotlin
+- 🔭 I’m currently learning flutter, kotlin compose and working on essises at my online spot
 
 - 🤔 Experimenting with reactive REST
-
-- 🌱 I’m currently learning Flutter, Kotlin
 
 - Welcome
 
